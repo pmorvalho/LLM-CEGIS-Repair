@@ -4,6 +4,9 @@ This is the implementation of _Counterexample Guided Program Repair Using Zero-S
 
 In this work, we propose a novel approach that combines the strengths of both Formal Methods (FM)-based fault localization and Large Language Models (LLMs), via zero-shot learning, to enhance Automated Progra Repair (APR) for introductory programming assignments (IPAs).
 
+![Overview of our work](LLM-CEGIS-Repair.png)
+
+
 Our method uses MaxSAT-based fault localization to identify buggy parts of a program, then presents the LLM with a program sketch devoid of these buggy statements.
 This hybrid approach follows a Counterexample Guided Inductive Synthesis (CEGIS) loop to iteratively refine the program. We ask the LLM to synthesize the missing parts, which are then checked against a test suite.
 If the suggested program is incorrect, a counterexample from the test suite is fed back to the LLM for revised synthesis.
