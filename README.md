@@ -66,6 +66,6 @@ This repository should not be used to reproduce the paper, but it contains the c
 
 [1] P. Orvalho, M. Janota, and V. Manquinho. Counterexample Guided Program Repair Using Zero-Shot Learning and MaxSAT-based Fault Localization. In the 39th Annual AAAI Conference on Artificial Intelligence, AAAI 2025. [PDF](https://web.ist.utl.pt/pmorvalho/papers/aaai25-LLM-CEGIS-Repair.pdf).
 
-[2] P. Orvalho, M. Janota, and V. Manquinho. C-Pack of IPAs: A C90 Program Benchmark of Introductory Programming Assignments. In the 5th International Workshop on Automated Program Repair, APR 2024, co-located with ICSE 2024. [GitHub](https://github.com/pmorvalho/C-Pack-IPAs). [PDF](http://web.ist.utl.pt/pmorvalho/papers/fm24-paper.pdf).
+[2] P. Orvalho, M. Janota, and V. Manquinho. C-Pack of IPAs: A C90 Program Benchmark of Introductory Programming Assignments. In the 5th International Workshop on Automated Program Repair, APR 2024, co-located with ICSE 2024. [GitHub](https://github.com/pmorvalho/C-Pack-IPAs). [PDF](https://web.ist.utl.pt/ist181151/papers/apr24-paper.pdf).
 
-[3] P. Orvalho, M. Janota, and V. Manquinho. CFaults: Model-Based Diagnosis for Fault Localization in C with Multiple Test Cases. The 26th International Symposium on Formal Methods, FM 2024. [GitHub](https://github.com/pmorvalho/CFaults). [PDF](https://web.ist.utl.pt/ist181151/papers/apr24-paper.pdf).
+[3] P. Orvalho, M. Janota, and V. Manquinho. CFaults: Model-Based Diagnosis for Fault Localization in C with Multiple Test Cases. The 26th International Symposium on Formal Methods, FM 2024. [GitHub](https://github.com/pmorvalho/CFaults). [PDF](http://web.ist.utl.pt/pmorvalho/papers/fm24-paper.pdf).
