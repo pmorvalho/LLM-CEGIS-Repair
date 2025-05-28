@@ -38,7 +38,7 @@ class TestSuite(ABC):
 
         return tests_values
 
-    def get_counter_example(self, t: str):
+    def get_counterexample(self, t: str):
         if t:
             t = t.split("/")[-1].split(".")[0] 
         try:
